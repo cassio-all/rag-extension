@@ -6,6 +6,7 @@ This project is a Go application that demonstrates how to use retrieval augmente
 ## Prerequisites
 
 - Go 1.16 or higher
+- `ngrok`: [Instalar ngrok](https://ngrok.com/download)
 - Set the following environment variables (example below):
 
 ```
